@@ -1,4 +1,4 @@
-# matplotlib
+# Matplotlib
 1 Dataset &amp; 100 visualization 
 
 # Bar Chart
